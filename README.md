@@ -82,6 +82,10 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
       <br>React
   </td>
+            <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
+  </td>
   </tr>
  <tr>
  </tr>
