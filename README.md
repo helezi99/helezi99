@@ -108,7 +108,6 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" />
       <br>Illustrator
     </td>
-    
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" height="48" alt="XD" />
       <br>Adobe XD
