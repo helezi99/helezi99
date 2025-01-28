@@ -86,6 +86,10 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" height="48" alt="Figma" />
       <br>Figma
   </td>
+                <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="48" height="48" alt="Angular" />
+      <br>Agular
+  </td>
   </tr>
  <tr>
  </tr>
