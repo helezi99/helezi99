@@ -1,6 +1,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="👋 Hi there! I'm Herma" title="👋 Hi there! I'm Herma"/>
 <div align="justify">
 > Tools and technologies that I have worked with and am interested in
+
+
 <table>
   <!-- Frontend -->
   <tr>
@@ -52,6 +54,18 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
       <br>Django
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
   </tr>
 
   <!-- Database -->
@@ -68,36 +82,12 @@
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
-  </tr>
-
-  <!-- Other Tools -->
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-  </tr>
-
-  <!-- Design & Miscellaneous -->
-  <tr>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" height="48" alt="Figma" />
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
     </td>
     <td align="center" width="96">
@@ -108,6 +98,10 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" />
       <br>Illustrator
     </td>
+  </tr>
+
+  <!-- Design -->
+  <tr>
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" height="48" alt="XD" />
       <br>Adobe XD
