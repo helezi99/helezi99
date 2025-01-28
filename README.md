@@ -64,6 +64,10 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" height="48" alt="PHP" />
       <br>php
     </td>
+                <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" />
+      <br>Illustrator
+    </td>
   </tr>
    <tr>
     <td align="center" width="96">
