@@ -1,4 +1,5 @@
-
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="👋 Hi there! I'm Herma" title="👋 Hi there! I'm Herma"/>
+<div align="justify">
 > Tools and technologies that I have worked with and am interested in
 
 <table>
@@ -71,6 +72,10 @@
     </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+  </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
       <br>Linux
   </td></tr>
  <tr>
