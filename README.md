@@ -38,6 +38,10 @@
 
   <!-- Backend -->
   <tr>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
+      <br>C++
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" />
       <br>C#
@@ -62,14 +66,15 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>GitHub
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
+
   </tr>
 
   <!-- Database -->
   <tr>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
@@ -94,14 +99,16 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" height="48" alt="Photoshop" />
       <br>Photoshop
     </td>
-    <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" />
-      <br>Illustrator
-    </td>
+
   </tr>
 
   <!-- Design -->
   <tr>
+        <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" />
+      <br>Illustrator
+    </td>
+    
     <td align="center" width="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XD.svg" width="48" height="48" alt="XD" />
       <br>Adobe XD
