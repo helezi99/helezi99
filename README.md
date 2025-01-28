@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="👋 Hi there! I'm Herma" title="👋 Hi there! I'm Herma"/>
+<img align="center" src="https://github.com/helezi99/helezi99/blob/main/upload/Turning%20Ideas%20into%20Intuitive%20Designs..png" alt="👋 Hi there! I'm Herma" title="👋 Hi there! I'm Herma"/>
 <div align="justify">
   
 > Tools and technologies that I have worked with and am interested in
