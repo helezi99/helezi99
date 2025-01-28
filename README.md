@@ -77,7 +77,13 @@
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
       <br>Linux
-  </td></tr>
+  </td>
+       <td align="center" width="96">
+        <img src="     https://techstack-generator.vercel.app/react-icon.svg 
+" width="48" height="48" alt="React" />
+      <br>React
+  </td>
+  </tr>
  <tr>
  </tr>
 </table>
