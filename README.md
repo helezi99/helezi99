@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="👋 Hi there! I'm Herma" title="👋 Hi there! I'm Herma"/>
-<div align="center">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="👋 Hi there! I'm Herma" title="👋 Hi there! I'm Herma"/>
+<div align="justify">
   
 > Tools and technologies that I have worked with and am interested in
 
